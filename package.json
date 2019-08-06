@@ -1,0 +1,22 @@
+{
+  "name": "ll-cli-lite",
+  "version": "1.0.0",
+  "description": "ll-cli-lite",
+  "main": "index.js",
+  "bin": {
+    "ll-cli-lite": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "cli-table": "^0.3.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.15.1",
+    "ora": "^2.0.0"
+  },
+  "author": "lulinglm",
+  "license": "ISC"
+}
